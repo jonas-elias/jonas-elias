@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Jonas Elias and I'm a Software Developer, from <strong>Santa Catarina, Brazil</strong>.</p>
+<p align="left">My name is Jonas Elias and I'm a software developer, from <strong>Santa Catarina, Brazil</strong>.</p>
 
 ###
 <h2 align="left">About me</h2>
