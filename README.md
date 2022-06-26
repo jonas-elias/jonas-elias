@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Jonas Elias and I'm a Software Developer, from Brazil</p>
+<p align="left">My name is Jonas Elias and I'm a Software Developer, from <strong>Santa Catarina, Brazil</strong>.</p>
 
 ###
 <h2 align="left">About me</h2>
@@ -13,7 +13,7 @@
 
 ###
 
-<h2 align="left">My Use Tools:</h2>
+<h2 align="left">My Use Tools</h2>
 
 ###
 
@@ -31,7 +31,7 @@
 
 ###
 
-<h2 align="left">My Networks:</h2>
+<h2 align="left">My Networks</h2>
 
 ###
 
