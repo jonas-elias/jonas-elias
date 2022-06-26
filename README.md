@@ -5,6 +5,17 @@
 <p align="left">My name is Jonas Elias and I'm a Software Developer, from Brazil</p>
 
 ###
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently study in ufsc.br<br>🎲 Fun fact: i play guitar and love my girlfriend very much hahaha</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
 
 <h2 align="left">My Use Tools:</h2>
 
@@ -21,6 +32,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="55" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="55" alt="github logo"  />
 </div>
+
+###
+
+<h2 align="left">My Networks:</h2>
 
 ###
 
